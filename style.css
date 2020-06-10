@@ -1,0 +1,40 @@
+body {
+    background-image: linear-gradient(to right, red, yellow);
+}
+
+.editablo {
+    margin: auto;
+}
+
+li {
+    margin: 10px;
+}
+
+.todo {
+    margin: auto;
+}
+
+.hovero:hover {
+    background: black !important;
+}
+
+.hovero:hover i {
+    color: white;
+}
+
+.todo-item {
+    display: flex;
+    justify-content: space-between;
+}
+.addspace {
+    margin-right: 5px;
+}
+
+.checked-task {
+    text-decoration: line-through;
+}
+
+.glyphicon-ok,
+.glyphicon-trash {
+    pointer-events: none;
+}
