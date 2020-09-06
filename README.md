@@ -1,10 +1,9 @@
 # Todo-List
-A todo-list using vanilla JS and bootstrap for some styling
+A todo-list using vanilla JS and bootstrap for some styling.
 
-
-<i>localStorage part of this project retrieved from DevEd on youtube.</i>
+<h3> Live Demo: </h3>
 
 <b>Skills learned from this project:</b>
 - adding and deleting items from the local storage
 
-twitter: @ahmadbenos
+
